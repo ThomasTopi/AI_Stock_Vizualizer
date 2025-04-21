@@ -1,9 +1,5 @@
+from src.gui import MainPage
 
-
-
-
-def main():
-    pass
 
 if __name__=="__main__":
-    main()
+    MainPage()
