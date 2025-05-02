@@ -1,2 +1,5 @@
 yfinance
 streamlit
+google-genai
+google.generativeai
+dotenv
